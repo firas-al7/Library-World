@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pnfthi">#5F2BBA</color>
+    <color name="recyclerViewBackGroundLight">#EFF1F3</color>
+    <color name="textColorLight">#000</color>
+
+    <color name="recyclerViewBackGroundDark">#284F6E</color>
+    <color name="textColorDark">#FFF</color>
+
+</resources>

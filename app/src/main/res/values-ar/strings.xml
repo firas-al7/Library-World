@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">library of world</string>
+    <string name="search">ابحث غن كتابك</string>
+    <string name="home">الرئيسية</string>
+    <string name="myLibrary">مكتبتي</string>
+    <string name="first_block">"كتب مضافة حديثا "</string>
+    <string name="second_block">"كتب منوعة "</string>
+    <string name="favorite">"الكتب المفضلة "</string>
+    <string name="loaded">الكتب المحملة</string>
+    <string name="by">بواسطة</string>
+    <string name="download">تحميل</string>
+    <string name="motivational">في صفحات الكتاب، لا تجد مجرد كلمات، بل تجد القوة للتحول، والإلهام، ورفع  أفكارك</string>
+    <string name="save_book_btn">حفظ في قائمة المفضلات</string>
+    <string name="download_book_btn">تحميل الكتاب</string>
+    <string name="read_online_book_btn">اقرا على الانترنت</string>
+    <string name="like">"قد يعجبك ايضا "</string>
+    <string name="download_done_book_btn">تم تحميل الكتاب</string>
+    <string name="description">لمحة عن هذا الكتاب</string>
+    <string name="book_rate">تقييم الكتاب:</string>
+    <string name="error">حدث خطاء الرجاء محاولة لاخقا</string>
+    <string name="no_book">لم يتم ايجاد الكتاب</string>
+    <string name="noFavorite">لم يتم اضافة كتب الى المفضلات</string>
+    <string name="noDownload">لم يتم تحميل اي كتاب</string>
+    <string name="read_now">قراءة الان</string>
+    <string name="doneFavorite">تم اضافة الى المفضلات</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">library of world</string>
+    <string name="search">Find your book</string>
+    <!-- for scroll view name-->
+    <string name="home">Home</string>
+    <string name="myLibrary">My library</string>
+
+
+    <string name="first_block">Recently added books </string>
+    <string name="second_block">Various book </string>
+    <string name="favorite">Favorite books</string>
+    <string name="loaded">Loaded books</string>
+    <string name="save_book_btn">Save to favorites list</string>
+    <string name="download_book_btn">Download book</string>
+    <string name="download_done_book_btn">Download book done</string>
+    <string name="read_online_book_btn">Read online</string>
+    <string name="like">May you also like</string>
+    <string name="description">An OverView of this book</string>
+    <string name="book_rate">Book evaluation</string>
+    <string name="error">An error occurred, please try again later!</string>
+    <string name="no_book">No Book Found!!</string>
+    <string name="by">By</string>
+    <string name="download">Download</string>
+    <string name="doneFavorite">Added to favorites</string>
+    <string name="noFavorite">No books have been added </string>
+    <string name="noDownload">No book has been downloaded</string>
+    <string name="read_now">Read Now</string>
+
+    <string name="motivational">In the pages of a book,
+        you find not just words, but the power to transform,
+        inspire, and elevate your thoughts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
